@@ -1,0 +1,6 @@
+module Pods_reactNativeBiolerplate_reactNativeBiolerplateTests {
+  umbrella header "Pods-reactNativeBiolerplate-reactNativeBiolerplateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
